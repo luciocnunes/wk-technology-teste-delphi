@@ -1,3 +1,6 @@
+﻿CREATE DATABASE  IF NOT EXISTS `wkdelphi112`;
+USE `wkdelphi112`;
+
 -- MySQL dump 10.13  Distrib 5.7.42, for Win64 (x86_64)
 --
 -- Host: localhost    Database: wkdelphi112
