@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/24 23:04:29.000.582,=C:\Users\luciocnunes\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/10/24 23:04:48.000.792,=C:\Users\luciocnunes\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2024/10/24 23:11:06.000.370,C:\wkteste\View\Unit6.dfm=C:\Users\luciocnunes\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2024/10/24 23:11:06.000.370,C:\wkteste\View\Unit6.pas=C:\Users\luciocnunes\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/10/24 23:17:23.000.071,C:\wkteste\Project6.dproj=C:\Users\luciocnunes\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2024/10/24 23:20:27.000.375,=C:\wkteste\View\UPedidos.pas</Transaction>
+    <Transaction>2024/10/24 23:20:38.000.128,C:\wkteste\View\Unit6.pas=</Transaction>
+    <Transaction>2024/10/25 10:29:23.000.023,=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 10:29:54.000.106,C:\wkteste\UDMPedidos.pas=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 10:29:54.000.106,C:\wkteste\UDMPedidos.dfm=C:\wkteste\Unit1.dfm</Transaction>
+    <Transaction>2024/10/25 10:30:05.000.651,C:\wkteste\View\UDMPedidos.dfm=C:\wkteste\UDMPedidos.dfm</Transaction>
+    <Transaction>2024/10/25 10:30:05.000.651,C:\wkteste\View\UDMPedidos.pas=C:\wkteste\UDMPedidos.pas</Transaction>
+    <Transaction>2024/10/25 11:39:22.000.211,=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 11:40:35.000.653,C:\wkteste\Controller\uClassCliente.pas=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 12:37:06.000.538,=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 12:37:38.000.656,C:\wkteste\Controller\uClassProduto.pas=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 20:21:53.000.722,=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 20:22:23.000.672,C:\wkteste\Controller\uClassPedidos.pas=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/26 08:41:04.000.246,=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/26 08:41:31.000.996,=C:\wkteste\Unit1.pas</Transaction>
+    <Transaction>2024/10/26 08:59:00.000.687,C:\wkteste\Unit1.dfm=C:\wkteste\View\uConfigINI.dfm</Transaction>
+    <Transaction>2024/10/26 08:59:00.000.687,C:\wkteste\Unit1.pas=C:\wkteste\View\uConfigINI.pas</Transaction>
+    <Transaction>2024/10/26 09:45:05.000.155,C:\wkteste\Project6.dproj=C:\wkteste\WKLucioNunes.dproj</Transaction>
+    <Transaction>2024/10/27 15:47:37.266,C:\wkteste\Model\uClassPedidos.pas=C:\wkteste\Controller\uClassPedidos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
