@@ -1,14 +1,17 @@
 # WK Technology Teste Delphi
 
 Desafio Técnico 🚀🚀
+
 Considerações:
 
 O banco e as tabelas em dump_banco.sql;
 
 Desenvolvido com Delphi 11
+
 MySql 5.7
 
 A aplicação gera o arquivo Banco.ini (pasta da aplicação) com os parâmetros de conexão;
+
 Tela de configuração para o Banco.ini.
 
 ![image](https://github.com/user-attachments/assets/2179c043-05e6-4cca-b113-f6b5e34d8499)
